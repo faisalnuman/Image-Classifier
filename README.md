@@ -61,5 +61,6 @@ Current settings:<br/>
 
 _Accuracy_: 82%
 
-## Authors
-- Faisal Numan
+## Author
+- Faisal Numan - Initial work
+- Udacity - Project Machine Learning Intro with Python Nanodegree
