@@ -59,7 +59,7 @@ Current settings:<br/>
 - dropout: 0.5
 - epochs: 3
 
-_Accuracy_: 82%
+_Accuracy_: 83%
 
 ## Author
 - Faisal Numan - Initial work
