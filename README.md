@@ -20,7 +20,7 @@ Ensure you have the latest version of pip.
   - Prints out current epoch, training loss, validation loss, and validation accuracy as the netowrk trains
   - Options:
     - Set direcotry to save checkpoints: ```python train.py data_dor --save_dir save_directory```
-    - Choose arcitecture (densenet121 or vgg16 available): ```python train.py data_dir --arch "vgg16"```
+    - Choose arcitecture (densenet121 or vgg19 available): ```python train.py data_dir --arch "vgg19"```
     - Set hyperparameters: ```python train.py data_dir --learning_rate 0.001 --hidden_layer1 120 --epochs 20```
     - Use GPU for training: ```python train.py data_dir --gpu gpu```
   - Output: A trained network ready with checkpoint saved for doing parsing of flower images and identifying the species.
